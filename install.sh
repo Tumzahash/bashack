@@ -1,4 +1,4 @@
 apt update
-echo ('clear')
+clear
 apt install nodejs
-echo ('clear')
+clear
